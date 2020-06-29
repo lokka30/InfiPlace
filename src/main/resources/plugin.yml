@@ -1,0 +1,16 @@
+name: InfiPlace
+version: ${project.version}
+author: lokka30
+main: io.github.lokka30.infiplace.InfiPlace
+api-version: '1.13'
+description: ${project.description}
+
+commands:
+  infiplace:
+    description: Toggle infinite placement of blocks.
+    usage: /<command>
+
+permissions:
+  infiplace:
+    description: Allows usage of the infiplace command.
+    default: op
