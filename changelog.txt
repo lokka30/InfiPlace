@@ -1,0 +1,6 @@
+--- Changelog File ---
+
+v1.0.0-SNAPSHOT:
+- Initial Release.
+
+... to be continued ...
